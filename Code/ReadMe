@@ -1,0 +1,2 @@
+The Arduino code needs to be uploaded onto the Arduino Uno board, Then Running the PYTHON_CONTROLLER.py code T
+he robotic arm can be directly controled usong key stroles 'w', 's', 'a', 'd', '+', '-', '0', 'o'
