@@ -1,0 +1,27 @@
+3D Printed Components
+
+Sl.No.	Component Name	QTY. Infill Density
+_______________________________________________________
+
+1	BASE	        1	30 %
+2	ROTARY-1	1	60 %
+3	ARM1	        1	30 %
+4	ARM2	        2	30 %
+5	GRIPPER-BASE	1	40 %
+6	GRIPPER	        2	20 %
+7	GRIPPER-HOLDER	1	25 %
+________________________________________________________
+
+
+Electronics
+___________
+
+1. Stepper Motor - Bipolar Nema7 -1x
+2. SG90 Servos - 3x
+3. MG995 Servos - 1x
+4. Arduino - 1x
+5. Buck convertor (12V to 5V) - 1x
+6. Power Adapter 12V 2A - 1x
+7. PCA9685 - Servo Driver - 1x
+8. A4988 - Stepper Driver - 1x
+9. Jumper Wires - The more the better 😉
