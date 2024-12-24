@@ -1,2 +1,19 @@
-The Arduino code needs to be uploaded onto the Arduino Uno board, Then Running the PYTHON_CONTROLLER.py code T
-he robotic arm can be directly controled usong key stroles 'w', 's', 'a', 'd', '+', '-', '0', 'o'
+The Arduino code needs to be uploaded onto the Arduino Uno board.
+
+The Python code PYTHON_CONTROLLER can be run using the pyserial and keyboard modules. To install the required dependencies, use the following command:
+
+pip install pyserial ; pip installkeyboard
+
+Using this script, you can map the following keys to control the robot's movements:
+
++ : Base rotates clockwise
+- : Base rotates counterclockwise
+W : Rotate Arm 1 counterclockwise
+S : Rotate Arm 1 clockwise
+A : Rotate Arm 2 counterclockwise
+D : Rotate Arm 2 clockwise
+0 : Park the robot at the defined parking joint angles
+O : Open/Close the gripper
+Q : Quit the code
+
+This intuitive key mapping allows easy control of the robot's movement and positioning.
